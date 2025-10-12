@@ -1,0 +1,26 @@
+abs
+all
+any
+bool
+dict
+enumerate
+float
+int
+len
+list
+max
+min
+print
+range
+reversed
+round
+set
+sorted
+str
+sum
+zip
+
+Beyond those ones, iter() and next() can be useful once you're comfortable working with iterators/generators.
+isinstance, issubclass, and type are important for type-checking, but leetcode is never gonna require that.
+open is important for reading/writing files.
+filter and map can be helpful sometimes but are mostly redundant thanks to list comprehensions and generator expressions.
